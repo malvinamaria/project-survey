@@ -1,13 +1,10 @@
 # Survey form with React
 
-Replace this readme with your own information about your project.
-
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+The focus of this week's project was to leverage the full capabilities of React by incorporating State. The objective was to develop a survey similar to Typeform for gathering information from users.
 
 ## The problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+To begin with, I created a rough draft of the survey questions. During the project, I gained experience in various types of input and learned how to connect them to the React hook, useState. The inputs I included were text input, checkbox, a dropdown menu, radio buttons, and textarea. If given more time, I would incorporate additional elements and allow the inputs to be utilized instead of having a "Next" button.
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://transcendent-cuchufli-2b8488.netlify.app
