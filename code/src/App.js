@@ -46,7 +46,7 @@ export const App = () => {
           {/* <p> Current state: {step} </p> */}
           <div className="next-step">
             <button type="button" onClick={handleStepIncreasse}>
-              Next step
+              {'>>>'} Next step {'<<<'}
             </button>
           </div>
         </>
